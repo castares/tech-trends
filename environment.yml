@@ -1,0 +1,7 @@
+name: tech-trends
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - boto3
+  - python-dotenv
